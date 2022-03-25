@@ -1,2 +1,2 @@
-# password-generator-js
-Um gerador de senha aleatória feito em JavaScript
+# Password generator made in JavaScript
+Um gerador de senha aleatória feito em JavaScript.
